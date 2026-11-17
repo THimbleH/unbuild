@@ -1,0 +1,25 @@
+app:
+  id: "7708915570158190627"
+  name: "Unbuild 拆解"
+  slogan: "在深空车间里，把一台机器拆开，再原样装回去"
+  description: "VR 拆装体验。工作台上摆着一台机器，抓起螺丝刀碰一下螺丝就会自动拧开；螺丝清空后盖子弹起，内部核心飞进右边托盘。10 道关卡在控制盒、电池仓、电机模块三种机型间轮换，螺丝从 4 颗递增到 10 颗。拆完十关进入复装：把三颗核心按序装回主机、盖上盖子、拧回螺丝，修复完成。全程手柄抓取与触碰交互。"
+  tags: [ "休闲益智" ]
+  category: "game"
+  icon: "D:/unityproject/pico/StarMap/Build/unbuild_assets/icon_1024.png"
+  landscape: "D:/unityproject/pico/StarMap/Build/unbuild_assets/poster_2560x1440.png"
+  detail_images:
+    - "D:/unityproject/pico/StarMap/Build/unbuild_assets/detail_01_screw.png"
+    - "D:/unityproject/pico/StarMap/Build/unbuild_assets/detail_02_open.png"
+    - "D:/unityproject/pico/StarMap/Build/unbuild_assets/detail_03_rebuild.png"
+  videos: []
+version:
+  name: "V1.0.0"
+  notes: "首发版本：10 道拆解关卡、三种机型、螺丝刀触碰拧螺丝、核心收集与复装终章。"
+build:
+  repo_url: "https://github.com/THimbleH/unbuild"
+  repo_visibility: "public"
+  tech_stack: "Unity 6"
+  ai_tool: "WorkBuddy"
+  ai_model: "Claude"
+  features: [ "controller_support" ]
+  teammates: []
