@@ -1,0 +1,13 @@
+.gradle/
+local.properties
+*.iml
+.idea/
+.DS_Store
+unityLibrary/build/
+launcher/build/
+build/
+unityLibrary/src/main/Il2CppOutputProject/
+.cxx/
+.vibelab/
+Unbuild_BurstDebugInformation_DoNotShip/
+StarChartRoom_BurstDebugInformation_DoNotShip/
